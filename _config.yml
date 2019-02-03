@@ -1,26 +1,11 @@
 # Site Settings
-locale: "ja-JP"
-repository: "homedm/homedm.github.io"
 url: https://homedm.eim.world # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-dinky
-plugins:
-    - jekyll-seo-tag
 encoding: utf-8
 
-
-twitter_username: retasutomato
-github_username: homedm
-
 # Build settings
-markdown: kramdown
-theme: minima
 exclude: ['Gemfile', 'Gemfile.lock', 'vendor']
-sass:
-    sass_dir: _sass
-    load_paths: node_module/
-    syntax: scss
-    style: compressed
 
 # Site Author
 author:
@@ -28,3 +13,6 @@ author:
     avatar: black_cat_icon.png
     email: email@example.com
     description: ># このページは@homedmのユーザーページです。
+
+twitter_username: retasutomato
+github_username: homedm
