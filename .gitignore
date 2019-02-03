@@ -1,0 +1,12 @@
+_site
+.sass-cache
+.jekyll-metadata
+_drafts
+vendor
+
+# node
+node_modules
+.bundle
+npm-debug.log
+.DS_Store
+.*.swp
