@@ -1,11 +1,14 @@
 # Site Settings
 url: https://homedm.eim.world # the base hostname & protocol for your site, e.g. https://example.com
+title: tomato diary
 
 theme: jekyll-theme-dinky
 encoding: utf-8
 
 # Build settings
 exclude: ['Gemfile', 'Gemfile.lock', 'vendor']
+plugins:
+    - "jekyll-github-metadata"
 
 # Site Author
 author:
