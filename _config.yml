@@ -6,7 +6,7 @@ theme: jekyll-theme-dinky
 encoding: utf-8
 
 # Build settings
-exclude: ['Gemfile', 'Gemfile.lock', 'vendor']
+exclude: ['Gemfile', 'Gemfile.lock', 'vendor', '.textlintrc', 'node_modules/', 'package-lock.json', 'package.json' ]
 plugins:
     - "jekyll-github-metadata"
 
