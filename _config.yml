@@ -1,6 +1,9 @@
 # Site Settings
-url: https://homedm.eim.world # the base hostname & protocol for your site, e.g. https://example.com
+# the base hostname & protocol for your site, e.g. https://example.com
+url: https://homedm.eim.world
 title: tomato diary
+description: this page is personal home page.
+
 
 theme: jekyll-theme-dinky
 encoding: utf-8
@@ -15,7 +18,6 @@ author:
     name: homedm
     avatar: black_cat_icon.png
     email: email@example.com
-    description: ># このページは@homedmのユーザーページです。
 
 twitter_username: retasutomato
 github_username: homedm
