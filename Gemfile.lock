@@ -244,8 +244,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
-  minima
-  sass
 
 BUNDLED WITH
    2.0.1
