@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Links
-permalink: /links.html
+permalink: /links
 ---
 
 よく参照していたり、参考になったWebページへのリンク集です。
